@@ -12,4 +12,4 @@
 
 <br />
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=eliasnogueira&hide=["prs","issues"])
+![Github stats](https://github-readme-stats.vercel.app/api?username=tatianeaguirres&hide=["prs","issues"])
