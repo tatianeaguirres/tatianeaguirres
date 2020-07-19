@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi there, I'm Tatiane Aguirres Nogueira 👋
 
-<!--
-**tatianeaguirres/tatianeaguirres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Twitter Follow](https://img.shields.io/twitter/follow/tatianeaguirres?style=social)
+[![Linkedin Badge](https://img.shields.io/badge/-Add&nbsp;Me-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tatianeaguirres/)](https://www.linkedin.com/in/tatianeaguirres/)
+[![Slidehare Badge](https://img.shields.io/badge/-See&nbsp;my&nbsp;presentations-58a1a3?style=flat-square&logo=Slideshare&logoColor=white&link=https://www.slideshare.net/TatianeAguirres1)](https://www.slideshare.net/TatianeAguirres1)
 
-Here are some ideas to get you started:
+**I help Front-end Developers to create beautiful user-focused apps so they can work in challenging projects, and acquire the right skills to become top-level professionals.**
+<br/>
+* 👩‍💻 Front-end developer specialized in visual
+* 📖 I have a [personal blog](https://www.tatianeaguirres.com/) where you can find a lot of content about front-end development
+* 🎤 I also have an awesome page listing all my initiatives [![Public Speaking](https://badgen.net/badge/icon/public-speaking?icon=github&label)](https://github.com/tatianeaguirres/public-speaking)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=eliasnogueira&hide=["prs","issues"])
