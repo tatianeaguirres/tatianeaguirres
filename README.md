@@ -12,4 +12,4 @@
 
 <br />
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=tatianeaguirres&hide=["prs","issues"]&show_icons=true&bg_color=ffffff&line_height=20&hide_border=true&text_color=B76E79&icon_color=000000&title_color=AE6671)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=tatianeaguirres&count_private=true&hide=issues&show_icons=true&theme=buefy)](https://github.com/tatianeaguirres/public-speaking)
