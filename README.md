@@ -12,4 +12,4 @@
 
 <br />
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=tatianeaguirres&hide=["prs","issues"]&show_icons=true&bg_color=ffffff&line_height=20&hide_border=true&text_color=7BA08C&icon_color=2E4036&title_color=5F836F)
+![Github stats](https://github-readme-stats.vercel.app/api?username=tatianeaguirres&hide=["prs","issues"]&show_icons=true&bg_color=ffffff&line_height=20&hide_border=true&text_color=B76E79&icon_color=2E4036&title_color=5F836F)
