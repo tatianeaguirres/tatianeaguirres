@@ -12,4 +12,8 @@
 
 <br />
 
+[![ebook](https://github.com/tatianeaguirres/tatianeaguirres/blob/master/img/ebook.png)](https://mailchi.mp/d31d49412e89/the-ultimate-checklist-for-front-end-devs)
+
+<br />
+
 [![Github stats](https://github-readme-stats.vercel.app/api?username=tatianeaguirres&count_private=true&hide=issues&show_icons=true&theme=buefy)](https://github.com/tatianeaguirres/public-speaking)
