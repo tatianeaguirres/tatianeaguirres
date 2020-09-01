@@ -12,7 +12,7 @@
 
 <br />
 
-[![ebook](https://github.com/tatianeaguirres/tatianeaguirres/blob/master/img/ebook.png)](https://mailchi.mp/d31d49412e89/the-ultimate-checklist-for-front-end-devs)
+[![ebook](https://github.com/tatianeaguirres/tatianeaguirres/blob/master/img/ebook.png)](https://www.tatianeaguirres.com/ebook)
 
 <br />
 
