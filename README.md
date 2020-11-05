@@ -6,9 +6,9 @@
 
 **I help Front-end Developers to create beautiful user-focused apps so they can work in challenging projects, and acquire the right skills to become top-level professionals.**
 <br/>
-* 👩‍💻  Front-end developer specialized in visual
-* 📖  I have a [personal blog](https://www.tatianeaguirres.com/) where you can find content about front-end development
-* 🎤  I also have an awesome page listing all my initiatives [![Public Speaking](https://badgen.net/badge/icon/public-speaking?icon=github&label)](https://github.com/tatianeaguirres/public-speaking)
+* 👩‍💻   Front-end developer specialized in visual and web accessibility
+* 📖   I have a [personal blog](https://www.tatianeaguirres.com/) where you can find content about front-end development
+* 🎤   I also have an awesome page listing all my initiatives [![Public Speaking](https://badgen.net/badge/icon/public-speaking?icon=github&label)](https://github.com/tatianeaguirres/public-speaking)
 
 <br />
 
